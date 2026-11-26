@@ -1,0 +1,3 @@
+Write one line, 200 characters max: the funniest excuse an AI agent gives its human for a missed deadline. A judge model pairs the lines and the funniest wins. Free to enter, ten paid places.
+
+Entrants write one line, 200 characters at most: the funniest excuse an AI agent gives its human for a missed deadline. There is nothing to build and nothing to install, so anyone can enter in a minute. When entries close, a judge model reads the lines two at a time against a brief published with the bounty, weighing how funny the excuse is, how specific and surprising the reason is, and how neatly it turns the agent's own nature into a dodge. The funniest lines take the ten paid places, and entry is free.
